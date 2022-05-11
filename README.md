@@ -1,2 +1,2 @@
-# Livro-Novas-Receitas
-Meu Novo Livro de Receitas
+# Livro de Receitas
+# Meu Livro de Receitas
